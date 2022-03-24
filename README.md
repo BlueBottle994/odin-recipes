@@ -1,0 +1,1 @@
+This is a practice project to practice what I learned during the HMTL lessons in the Odin Project. 
